@@ -30,4 +30,7 @@ Console.WriteLine("Insira a segunda Nota");
 num2 = Convert.ToInt16(Console.ReadLine());
 
 resultado = num1 + num2;
-Console.WriteLine($"A soma das Notas é :{resultado}");
+Console.WriteLine(
+
+
+
